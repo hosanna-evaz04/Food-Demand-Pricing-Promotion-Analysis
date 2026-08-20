@@ -46,6 +46,7 @@ Food-Demand-Pricing-Promotion-Analysis/
     ├── meal-center-analysis.png
     ├── pricing-promotion-analysis.png
     └── info.png
+```text
 
 ## Project Purpose
 This project demonstrates practical Power BI skills in:
@@ -57,7 +58,6 @@ This project demonstrates practical Power BI skills in:
 - Data visualization
 - Business insight generation
 
-## Dashboard Preview
 ## Dashboard Preview
 
 ### Demand Overview
