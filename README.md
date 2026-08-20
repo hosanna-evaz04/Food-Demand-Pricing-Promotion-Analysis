@@ -33,20 +33,20 @@ The dataset was obtained from Kaggle.
 - Order volume varies across price levels, so price alone does not fully explain demand.
 
 ## Project Structure
+
 ```text
 Food-Demand-Pricing-Promotion-Analysis/
 ├── Food_Demand_Pricing_Promotion_Analysis.pbix
 ├── README.md
 ├── dataset/
-│   ├── train.xlsx
-│   ├── meal_info.xlsx
-│   └── fulfilment_center_info.xlsx
+│   ├── train.csv
+│   ├── meal_info.csv
+│   └── fulfilment_center_info.csv
 └── screenshots/
     ├── demand-overview.png
     ├── meal-center-analysis.png
     ├── pricing-promotion-analysis.png
     └── info.png
-```text
 
 ## Project Purpose
 This project demonstrates practical Power BI skills in:
