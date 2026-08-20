@@ -47,6 +47,7 @@ Food-Demand-Pricing-Promotion-Analysis/
     ├── meal-center-analysis.png
     ├── pricing-promotion-analysis.png
     └── info.png
+```
 
 ## Project Purpose
 This project demonstrates practical Power BI skills in:
